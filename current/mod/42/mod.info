@@ -1,0 +1,7 @@
+name=Map Teleport – Right-Click Rescue
+id=UniversalMapTeleportSP
+author=UniversalMapTeleportSP
+modversion=0.5.15
+description=B42.21 single-player and multiplayer world-map Teleport Here. Coexists with other map actions and provides the player-and-animal side of the Vehicle and Trailer edition.
+category=features
+versionMin=42.21

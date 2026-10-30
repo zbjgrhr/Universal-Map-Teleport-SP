@@ -1,0 +1,11 @@
+version=1
+id=3822887136
+title=Universal Map Teleport - Map Right-Click Rescue [B42.21]
+description=Build 42.21 world-map Teleport Here for single-player and multiplayer. All players can use it; multiplayer teleports happen automatically on the server with no admin permission or manual approval. Install the mod on both server and client.
+description=Adds its own Teleport Here beside existing right-click actions, so you can choose it or another mod's route, GPS, waypoint, marker, teleport, or cheat/debug action from the same menu. Works with mixed map-mod setups including AutoDrive and ZombieBuddy. If another mod removes its own actions, this mod cannot recreate them.
+description=Optional keyboard shortcut: bind UMTSP: Teleport Here (World Map) in Options > Key Bindings > Universal Map Teleport. With the world map open, point at a destination and press the key. Unbound by default.
+description=Checks loaded landing tiles. Distant destinations are checked after the area loads; the mod can adjust the landing or return you to the starting point. Vehicle teleport is not yet supported: exit the vehicle first.
+description=
+description=中文：B42.21 单机与多人世界地图右键传送。多人模式所有玩家均可直接使用，由服务器自动执行，无需管理员权限或人工批准；服务器与客户端都需启用本模组。右键菜单可同时显示本模组的 Teleport Here 与其他模组已生成的导航/GPS、路线、航点、标记、传送和作弊/调试选项，各项分别可点；支持 AutoDrive、ZombieBuddy 等组合。其他模组自行删除的选项无法恢复。可在 Options > Key Bindings > Universal Map Teleport 绑定备用键盘快捷键，默认未绑定。远距离目标加载后检查落点，必要时调整或返回原位。目前乘车传送尚未支持，请先下车。
+tags=Build 42;Map
+visibility=public

@@ -1,0 +1,11 @@
+name=Map Teleport – Vehicle & Trailer Add-on
+id=UMTSPVehicleBridge
+author=UniversalMapTeleportSP
+modversion=0.5.6
+description=B42.21 vehicle and connected towing-chain transfer, including animals loaded through the game's vehicle-animal system. Requires Map Teleport – Right-Click Rescue and ZombieBuddy 2.3.4 or newer.
+require=\ZombieBuddy,\UniversalMapTeleportSP
+javaJarFile=media/java/UMTSPVehicle-0.5.6.jar
+javaPkgName=com.umtsp
+ZBVersionMin=2.3.4
+category=features
+versionMin=42.21

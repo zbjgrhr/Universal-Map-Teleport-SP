@@ -1,0 +1,6 @@
+name=Map Teleport - Pure Lua Vehicle Test
+id=UMTSPPureLuaVehicleTest
+author=[IA] Introvert Arcade
+modversion=0.1.2
+versionMin=42.21
+description=Standalone person and animal teleport with experimental dependency-free single-player vehicle teleport, including distant destinations via loaded-area steps. Use a disposable test save. No ZombieBuddy or Java JAR required. First trial: one vehicle, no other passengers or trailers.

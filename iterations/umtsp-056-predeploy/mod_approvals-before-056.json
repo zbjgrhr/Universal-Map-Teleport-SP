@@ -1,0 +1,29 @@
+{
+  "formatVersion": 2,
+  "mods": [
+    {
+      "id": "Viewpoint",
+      "workshop_id": 3809306528,
+      "jar_hash": "096bd37d63cb699ac95e9e7ea5245a1b9b5ff08c5161db35f6733b1d1c42b064",
+      "decision": true,
+      "time": "2026-10-16T12:43:01Z",
+      "author_id": null
+    },
+    {
+      "id": "PoolPit",
+      "workshop_id": 3816856700,
+      "jar_hash": "8cab7e62bcbce12d5599e36a34f4ac666c2a86ef5a13d0e50d9f6827ee621f4b",
+      "decision": true,
+      "time": "2026-10-16T12:43:01Z",
+      "author_id": null
+    },
+    {
+      "id": "UMTSPVehicleBridge",
+      "workshop_id": 3822887136,
+      "jar_hash": "7706e3f8c2febde32691c501315e1fd613a84e758eaf97ba2a6a03d30e47f6ba",
+      "decision": true,
+      "time": "2026-10-20T14:30:40Z",
+      "author_id": null
+    }
+  ]
+}
